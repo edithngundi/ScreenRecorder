@@ -25,7 +25,9 @@
     ],
 
     "permissions": [
-    
+        "scripting",
+        "tabs",
+        "activeTab"
     ],
 
     "version": "1.0.0"
