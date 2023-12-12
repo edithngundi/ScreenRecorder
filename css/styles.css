@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content{
+    padding: 10px;
+    min-width: 300px;
+}
+
+.button_cont button{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background: teal;
+    color: white;
+    width: 20%;
+}
+
+.button_cont button:hover{
+    box-shadow: 1px 0px 10p #eee;
+}
